@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="Hi.gif" width="30px">, I'm Muzammal Murtaza</h1>
+<h1 align="center">Hi, <img src="Hi.gif" width="30px"> I'm Muzammal Murtaza</h1>
 <h3 align="center">Full Stack Software Engineer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/muzammil-murtaza/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Muzammal Murtaza" height="30" width="40" /></a>
